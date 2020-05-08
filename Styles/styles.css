@@ -1,0 +1,111 @@
+header {
+
+    background-image: url(../images/spider-man-peter-parker-city-2781.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:200px;
+    color: navajowhite;
+    border:1px solid blue;
+    background-color: black;
+    }
+
+body {
+    
+    background-image:url(images/40683-comics-Spider-Man-Blo0p-superhero-Marvel_Heroes.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+   
+    }
+
+    
+nav ul {
+    
+    text-align: center;
+    font-size: 1.2em;
+    }
+
+
+nav ul li {
+    
+    list-style-type: none;
+    background-color:deepskyblue;
+    display: inline;
+    padding: 15px;
+    border: 2px;
+    border-radius: 10px;
+
+
+        }
+
+
+body {
+    font-style:normal; color:white;}
+    aside 
+    border: .5px solid yellow;
+    width: 18.5%;
+    float: right;
+        }
+    
+    
+
+
+
+.col_detail {
+    column-count: 3;   
+    column-rule: 1px solid white;   
+    column-gap: 50px;  
+    padding:2px;  
+            
+            }
+
+
+p.sansserif {
+        font-family: Arial, Helvetica, sans-serif;
+            }
+
+.col_detaila {
+        column-count: 3;   
+        column-rule: 1px solid white;   
+        column-gap: 50px;  
+        padding:2px; 
+            }
+
+footer {
+   
+    clear:both;
+    border: 1px solid orange;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+
+    
+    }
+
+#spiderman4 {
+    float: left;
+    width: 80%;
+    margin-right: 15px;
+    border: 1px solid grey;
+    
+}
+
+.auto-style12 {
+	background-color: #000000;
+            }
+
+	.auto-style15 {
+	font-size: small;
+	background-color: #000000;
+        }
+    
+.auto-style7 {
+    background-color: #000000;
+	       }
+
